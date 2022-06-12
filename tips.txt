@@ -15,5 +15,13 @@ eg: var a = 10;
 ------------------------------------------------------------
 
 # Tip 02
+# Difference Between final and const Keywords in Dart
 
+final --> set once but it is initialized when it is accessed.
+const --> it is a compilation time constant.
 
+instance variable can be final but cannot be const.
+
+------------------------------------------------------------
+
+# Tip 03
