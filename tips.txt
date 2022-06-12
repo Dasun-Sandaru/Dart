@@ -1,0 +1,19 @@
+
+# Tip 01
+# Difference Between var and dynamic Keywords in Dart
+
+var --> var variable once assigned, the type can not change.
+dynamic --> dynamic variable type can change over time.
+
+eg: var a = 10;
+    a = 5;          *can
+    a = 'value';    *cannot do this
+
+    dynamic b = 5;          *can
+    dynamic b = 'value'     *can
+
+------------------------------------------------------------
+
+# Tip 02
+
+
