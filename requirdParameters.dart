@@ -5,7 +5,7 @@
 // Types of parameters
 /*
 
-  #1. Requird Parameters
+  #1. Requird Parameters ✔
   #2. Optional Parameters
       2.0- optional parameter
       2.1- named parameter
