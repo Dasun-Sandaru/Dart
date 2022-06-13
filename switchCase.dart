@@ -2,6 +2,26 @@
 
 // switchCase.dart --- Switch Case Statement in Dart -- About Switch Case in Dart
 
+// syntax: switch-case
+
+  // switch(expression){
+  //   case 1:
+  //   //statement
+  //   return;
+
+  //   case 2:
+  //   //statement
+  //   return;
+
+  //   case 3:
+  //   //statement
+  //   return;
+
+  //   default:
+  //   //statement
+  // }
+
+
 void main(List<String> args) {
   
   int date = 5;
