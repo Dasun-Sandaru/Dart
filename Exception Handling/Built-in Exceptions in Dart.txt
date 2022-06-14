@@ -1,0 +1,52 @@
+
+
+About - Built-in Exceptions in Dart
+
+#1. DeferredLoadException
+    - Thrown when a deferred library fails to load.
+
+#2. FormatException
+    - Exception thrown when a string or some other data does not have an expected format and cannot be parsed or processed.
+
+#3. IntegerDivisionByZeroException
+    - Thrown when a number is divided by zero.
+
+#4. IOException
+    - Base class for all Inupt-Output related exceptions.
+
+#5. IsolateSpawnException
+    - Thrown when an isolate cannot be created.
+
+#6. Timeout
+    - Thrown when a scheduled timeout happens while waiting for an async result.
+
+#7. Others
+
+
+Handle Exception Using :
+
+    Try
+    Catch
+    On
+    Finally
+
+    StackTrace
+
+#1. On clause
+    - When you know the exception to be thrown, use ON clause
+
+#2. Catch clause with Exception object
+    - When you do not know the exception use CATCH clause
+
+#3. Catch clause with Exception object and StackTrace object
+    - Before excusing STACK TRACE to know the events occurred exception was thrown.
+
+#4. Finally clause
+    - Whether there is an exception or not, FINALLY clause is always executed.
+
+#5. create our own Custom Exception
+
+
+
+
+// occurred - සිදු විය
