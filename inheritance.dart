@@ -26,8 +26,8 @@ void main(List<String> args) {
   objG.display_g(); // Diaplay form G class : 20
   objG.display_F(); // Diaplay form F class : 10
 
-  objH.display_h(); // 
-  objH.display_F(); //
+  objH.display_h(); // Diaplay form H class : 30
+  objH.display_F(); // Diaplay form F class : 10
 
 }
 
