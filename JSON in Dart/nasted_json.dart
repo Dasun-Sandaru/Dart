@@ -36,8 +36,7 @@ class NastedJson{
     }
   };
 
-
-  static const myMapD = {
+  static const myJsonD = {
     "name": "Dasun",
     "age": 26,
     "city": "Galle",
