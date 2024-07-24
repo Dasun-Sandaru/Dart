@@ -65,7 +65,7 @@ class NastedJson{
   };
 
 
-  static const myMapE = {
+  static const myJsonE = {
     "tournament": {
       "name": "World Cup",
       "year": 2024,
